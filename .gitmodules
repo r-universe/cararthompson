@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "monochromeR"]
+	path = monochromeR
+	url = https://github.com/cararthompson/monochromer
+	shallow = true
+	registered = true
