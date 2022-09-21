@@ -8,3 +8,8 @@
 	url = https://github.com/cararthompson/monochromer
 	shallow = true
 	registered = true
+[submodule "verbaliseR"]
+	path = verbaliseR
+	url = https://github.com/cararthompson/verbaliser
+	shallow = true
+	registered = true

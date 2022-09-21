@@ -2,5 +2,9 @@
   {
     "package": "monochromeR",
     "oncran": true
+  },
+  {
+    "package": "verbaliseR",
+    "oncran": true
   }
 ]
